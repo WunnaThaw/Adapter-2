@@ -1,0 +1,10 @@
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.MainForm.resources
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.Properties.Resources.resources
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.csproj.GenerateResource.Cache
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb
